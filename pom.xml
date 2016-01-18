@@ -1,4 +1,4 @@
-<project>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.seanshubin.sample</groupId>
     <artifactId>web-app</artifactId>
@@ -49,7 +49,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.3.6.v20151106</version>
+            <version>9.3.7.v20160115</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
