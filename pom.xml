@@ -49,7 +49,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.4.0.v20161208</version>
+            <version>9.4.1.v20170120</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
